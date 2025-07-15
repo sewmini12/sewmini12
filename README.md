@@ -5,42 +5,48 @@
 ### 🧰 Tech Stack & Skills
 
 #### 🖥️ Frontend
-<div>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white" alt="CSS3" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-</div>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="30" height="30" style="vertical-align:middle;"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="30" height="30" style="vertical-align:middle;"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="30" height="30" style="vertical-align:middle;"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" alt="Figma" width="30" height="30" style="vertical-align:middle;"/>
+</p>
 
 #### 🗄️ Backend
-<div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="30" height="30" style="vertical-align:middle;"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" alt="PHP" width="30" height="30" style="vertical-align:middle;"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springboot.svg" alt="Spring Boot" width="30" height="30" style="vertical-align:middle;"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="30" height="30" style="vertical-align:middle;"/>
+</p>
 
 #### 💻 Programming Languages
-<div>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-</div>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" alt="C" width="30" height="30" style="vertical-align:middle;"/>
+</p>
 
 #### 📚 Data Structures & Algorithms
+
 <p>
-  <span title="Arrays">📚 Arrays</span> &nbsp;&nbsp;
-  <span title="Linked Lists">🔗 Linked Lists</span> &nbsp;&nbsp;
-  <span title="Sorting Algorithms">🧮 Sorting</span> &nbsp;&nbsp;
-  <span title="Searching Algorithms">🔍 Searching</span> &nbsp;&nbsp;
-  <span title="Trees">🌳 Trees</span> &nbsp;&nbsp;
-  <span title="Graphs">📈 Graphs</span> &nbsp;&nbsp;
-  <span title="Maps">🗺️ Maps</span>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/algolia.svg" alt="Arrays" width="30" height="30" style="vertical-align:middle;" title="Arrays" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedindotcom.svg" alt="Linked Lists" width="30" height="30" style="vertical-align:middle;" title="Linked Lists" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sortasc.svg" alt="Sorting" width="30" height="30" style="vertical-align:middle;" title="Sorting" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/searchengin.svg" alt="Searching" width="30" height="30" style="vertical-align:middle;" title="Searching" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tree.svg" alt="Trees" width="30" height="30" style="vertical-align:middle;" title="Trees" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/graph.svg" alt="Graphs" width="30" height="30" style="vertical-align:middle;" title="Graphs" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mapbox.svg" alt="Maps" width="30" height="30" style="vertical-align:middle;" title="Maps" />
 </p>
 
 #### 🛠️ Tools & Platforms
-<div>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-</div>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" alt="VS Code" width="30" height="30" style="vertical-align:middle;"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" style="vertical-align:middle;"/>
+</p>
+
 
 
 
