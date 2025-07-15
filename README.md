@@ -1,51 +1,76 @@
-- 👋 Hi, I’m sewmini kavindya
-- 🌱 I’m currently learning at the faculty of information technology-university of moratuva.
-- 📫 How to reach me rpsewminikavindya@gmail.com.
+## Hi there! 👋 I'm Sewmini Kavindya
 
-### 🧰 Tech Stack & Skills
+I'm a passionate software developer, IT student, and creative Figma designer who loves building modern web applications and exploring new technologies.  
+I enjoy working with both frontend and backend development, designing user-friendly interfaces, and solving problems using data structures and algorithms.
 
-#### 🖥️ Frontend
+💡 Currently learning and practicing advanced Java, Spring Boot, and algorithm problem solving.
 
+### 🧰 Tech Stack
+
+####  Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="30" height="30" style="vertical-align:middle;"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="30" height="30" style="vertical-align:middle;"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="30" height="30" style="vertical-align:middle;"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" alt="Figma" width="30" height="30" style="vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-#### 🗄️ Backend
-
+####  Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="30" height="30" style="vertical-align:middle;"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" alt="PHP" width="30" height="30" style="vertical-align:middle;"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springboot.svg" alt="Spring Boot" width="30" height="30" style="vertical-align:middle;"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="30" height="30" style="vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### 💻 Programming Languages
-
+####  Programming Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" alt="C" width="30" height="30" style="vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-#### 📚 Data Structures & Algorithms
-
+####  Data Structures & Algorithms
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/algolia.svg" alt="Arrays" width="30" height="30" style="vertical-align:middle;" title="Arrays" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedindotcom.svg" alt="Linked Lists" width="30" height="30" style="vertical-align:middle;" title="Linked Lists" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sortasc.svg" alt="Sorting" width="30" height="30" style="vertical-align:middle;" title="Sorting" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/searchengin.svg" alt="Searching" width="30" height="30" style="vertical-align:middle;" title="Searching" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tree.svg" alt="Trees" width="30" height="30" style="vertical-align:middle;" title="Trees" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/graph.svg" alt="Graphs" width="30" height="30" style="vertical-align:middle;" title="Graphs" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mapbox.svg" alt="Maps" width="30" height="30" style="vertical-align:middle;" title="Maps" />
+  <img src="https://img.shields.io/badge/Arrays-0078D7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linked_Lists-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sorting-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Searching-008000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trees-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Graphs-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maps-800080?style=for-the-badge" />
 </p>
 
-#### 🛠️ Tools & Platforms
-
+####  Tools & Platforms
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" alt="VS Code" width="30" height="30" style="vertical-align:middle;"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" style="vertical-align:middle;"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+---
+
+### 📊 GitHub Stats
+
+![Sewmini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sewmini12&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sewmini12&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sewmini12&theme=radical&hide_border=true)
+
+---
+---
+
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sewmini-kawindya-059533272)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpsewminikavindya@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sewmini12)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rpsewminikavindya)
+
+
+
+
+
+
+
 
 
 
