@@ -3,7 +3,6 @@
 I'm a passionate software developer, IT student, and creative Figma designer who loves building modern web applications and exploring new technologies.  
 I enjoy working with both frontend and backend development, designing user-friendly interfaces, and solving problems using data structures and algorithms.
 
-💡 Currently learning and practicing advanced Java, Spring Boot, and algorithm problem solving.
 
 ### 🧰 Tech Stack
 
