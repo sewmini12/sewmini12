@@ -50,17 +50,6 @@ I enjoy working with both frontend and backend development, designing user-frien
 </p>
 ---
 
-### 📊 GitHub Stats
-
-![Sewmini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sewmini12&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sewmini12&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sewmini12&theme=radical&hide_border=true)
-
----
----
-
 
 ### 📫 Connect with Me
 
