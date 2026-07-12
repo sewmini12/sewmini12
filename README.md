@@ -59,16 +59,6 @@ Passionate about building modern web applications and exploring the future of We
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
 </p>
 
----
-
-
-# ✍ Technical Writing
-
-📖 Understanding Blockchain Fundamentals
-
-📖 Practical Web3 Development Series
-
-📰 Published on **CoinsBench**
 
 ---
 
