@@ -53,7 +53,7 @@ Passionate about building modern web applications and exploring the future of We
 </p>
 
 
-### 🧰 Tools
+###  Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
