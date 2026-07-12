@@ -1,54 +1,172 @@
-## Hi there! 👋 I'm Sewmini Kavindya
+<h1 align="center">Hi 👋, I'm Sewmini Kavindya</h1>
 
-I'm a passionate software developer, IT student, and creative Figma designer who loves building modern web applications and exploring new technologies.  
-I enjoy working with both frontend and backend development, designing user-friendly interfaces, and solving problems using data structures and algorithms.
+<h3 align="center">
+IT Undergraduate • Full Stack Developer • UI/UX Designer • Blockchain Technical Writer
+</h3>
 
-
-### 🧰 Tech Stack
-
-####  Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<p align="center">
+Passionate about building modern web applications, designing intuitive user interfaces, and exploring the future of Web3 technologies.
 </p>
 
-####  Backend
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=00BFA6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;UI%2FUX+Designer;Blockchain+Technical+Writer;Always+Learning+Something+New+🚀" />
 </p>
 
-####  Mobile App Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-####  Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-####  Data Structures & Algorithms
-<p>
-  <img src="https://img.shields.io/badge/Arrays-0078D7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linked_Lists-0052CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sorting-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Searching-008000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Trees-FF4500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Graphs-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Maps-800080?style=for-the-badge" />
-</p>
-
-####  Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
 ---
+
+## 🚀 About Me
+
+🎓 IT Undergraduate at **University of Moratuwa**
+
+✍️ Technical Writer on **CoinsBench**
+
+💻 Passionate about Full Stack Web Development
+
+🎨 UI/UX Designer using Figma
+
+🌱 Currently learning **Next.js, TypeScript & Web3**
+
+⚡ I love transforming ideas into real-world applications.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,js,ts" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🏠 Apebodima.lk
+
+Student Boarding Accommodation Platform
+
+**Tech Stack**
+
+`React` `Node.js` `MySQL`
+
+---
+
+## 🚚 JustDrop
+
+Courier Aggregation Platform
+
+**Tech Stack**
+
+`React` `Express` `MongoDB`
+
+---
+
+## 💡 Smart Desk
+
+IoT Smart Workspace Automation System
+
+**Tech Stack**
+
+`Arduino` `Embedded Systems` `Sensors`
+
+---
+
+# ✍ Technical Writing
+
+📖 Understanding Blockchain Fundamentals
+
+📖 Practical Web3 Development Series
+
+📖 Blockchain Theory & Cryptography
+
+📖 Web3 Development Experiments
+
+📰 Published on **CoinsBench**
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Sewmini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+💙 *"Never stop learning because technology never stops evolving."*
+
+</p>
 
 
 ### 📫 Connect with Me
