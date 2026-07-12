@@ -71,6 +71,7 @@ Passionate about building modern web applications and exploring the future of We
 📰 Published on **CoinsBench**
 
 ---
+
 # 📊 GitHub Statistics
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=sewmini12&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewmini12&layout=compact&theme=tokyonight&hide_border=true"/> </p>
@@ -82,6 +83,7 @@ Passionate about building modern web applications and exploring the future of We
 
 [![Sewmini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sewmini12&theme=tokyo-night)](https://github.com/sewmini12)
 
+
 ---
 
 
@@ -91,6 +93,9 @@ Passionate about building modern web applications and exploring the future of We
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpsewminikavindya@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sewmini12)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rpsewminikavindya)
+
+
+---
 
 
 <p align="center">
