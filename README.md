@@ -16,17 +16,17 @@ Passionate about building modern web applications and exploring the future of We
 
 ##  About Me
 
-🎓 IT Undergraduate at **University of Moratuwa**
+ IT Undergraduate at **University of Moratuwa**
 
-✍️ Technical Writer on **CoinsBench**
+ Technical Writer on **CoinsBench**
 
-💻 Passionate about Full Stack Web Development
+ Passionate about Full Stack Web Development
 
-⚡ I love transforming ideas into real-world applications.
+ I love transforming ideas into real-world applications.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ###  Languages
 
@@ -71,7 +71,10 @@ Passionate about building modern web applications and exploring the future of We
 📰 Published on **CoinsBench**
 
 ---
-# 📊 GitHub Statistics <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=sewmini12&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewmini12&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sewmini12&theme=tokyonight&hide_border=true"/> </p>
+# 📊 GitHub Statistics
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=sewmini12&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewmini12&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sewmini12&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
