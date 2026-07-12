@@ -14,17 +14,6 @@ Passionate about building modern web applications and exploring the future of We
 
 ---
 
-##  About Me
-
- IT Undergraduate at **University of Moratuwa**
-
- Technical Writer on **CoinsBench**
-
- Passionate about Full Stack Web Development
-
- I love transforming ideas into real-world applications.
-
----
 
 ##  Tech Stack
 
