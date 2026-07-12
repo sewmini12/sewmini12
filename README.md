@@ -9,7 +9,7 @@ Passionate about building modern web applications and exploring the future of We
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=00BFA6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;UI%2FUX+Designer;Blockchain+Technical+Writer;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=00BFA6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Blockchain+Technical+Writer+on+CoinsBench;Always+Learning+Something+New+" />
 </p>
 
 ---
@@ -71,7 +71,9 @@ Passionate about building modern web applications and exploring the future of We
 📰 Published on **CoinsBench**
 
 ---
+# 📊 GitHub Statistics <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=sewmini12&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewmini12&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sewmini12&theme=tokyonight&hide_border=true"/> </p>
 
+---
 
 # 📈 Contribution Graph
 
