@@ -14,49 +14,47 @@ Passionate about building modern web applications and exploring the future of We
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,js,ts" />
   <br/>
-  <sub>C • Java • JavaScript • TypeScript</sub>
+  <sub>C &nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp; TypeScript</sub>
 </p>
 
-### 🎨 Frontend
+###  Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
   <br/>
-  <sub>HTML5 • CSS3 • React • Next.js • Tailwind CSS</sub>
+  <sub>HTML5 &nbsp;&nbsp;&nbsp; CSS3 &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Next.js &nbsp;&nbsp;&nbsp; Tailwind CSS</sub>
 </p>
 
-### ⚙️ Backend
+###  Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
   <br/>
-  <sub>Node.js • Express.js</sub>
+  <sub>Node.js &nbsp;&nbsp;&nbsp; Express.js</sub>
 </p>
 
-### 🗄️ Database
+###  Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mssql" />
   <br/>
-  <sub>MySQL • PostgreSQL • Microsoft SQL Server</sub>
+  <sub>MySQL &nbsp;&nbsp;&nbsp; PostgreSQL &nbsp;&nbsp;&nbsp; Microsoft SQL Server</sub>
 </p>
 
-### 🛠️ Tools
+###  Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
   <br/>
-  <sub>Git • GitHub • Figma • VS Code • Postman</sub>
+  <sub>Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Postman</sub>
 </p>
-
----
 
 # 📊 GitHub Statistics
 
