@@ -21,7 +21,6 @@ Passionate about building modern web applications and exploring the future of We
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,js,ts" />
   <br/>
-  <sub>C &nbsp;&nbsp;&nbsp; Java &nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp; TypeScript</sub>
 </p>
 
 ###  Frontend
@@ -29,7 +28,6 @@ Passionate about building modern web applications and exploring the future of We
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
   <br/>
-  <sub>HTML5 &nbsp;&nbsp;&nbsp; CSS3 &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Next.js &nbsp;&nbsp;&nbsp; Tailwind CSS</sub>
 </p>
 
 ###  Backend
@@ -37,7 +35,6 @@ Passionate about building modern web applications and exploring the future of We
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
   <br/>
-  <sub>Node.js &nbsp;&nbsp;&nbsp; Express.js</sub>
 </p>
 
 ###  Database
@@ -45,7 +42,6 @@ Passionate about building modern web applications and exploring the future of We
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mssql" />
   <br/>
-  <sub>MySQL &nbsp;&nbsp;&nbsp; PostgreSQL &nbsp;&nbsp;&nbsp; Microsoft SQL Server</sub>
 </p>
 
 ###  Tools
@@ -53,7 +49,6 @@ Passionate about building modern web applications and exploring the future of We
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
   <br/>
-  <sub>Git &nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp; Figma &nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp; Postman</sub>
 </p>
 
 # 📊 GitHub Statistics
