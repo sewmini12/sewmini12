@@ -9,13 +9,19 @@ Passionate about building modern web applications and exploring the future of We
 </p>
 
 <p align="center">
-  <a href="https://www.sewminikavindya.me/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00BFA6?style=for-the-badge" alt="Portfolio"/>
-  </a>
+  <a href="https://www.sewminikavindya.me/" target="_blank">Portfolio</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sewmini-kawindya-059533272" target="_blank">LinkedIn</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/sewmini12" target="_blank">GitHub</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://medium.com/@rpsewminikavindya" target="_blank">Medium</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="mailto:rpsewminikavindya@gmail.com">Email</a>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=00BFA6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Blockchain+Technical+Writer+on+CoinsBench;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=00BFA6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Blockchain+Technical+Writer+on+CoinsBench;Always+Learning+Something+New" />
 </p>
 
 ---
@@ -57,44 +63,8 @@ Passionate about building modern web applications and exploring the future of We
 #  GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sewmini12&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewmini12&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sewmini12&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-#  Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sewmini12&theme=tokyo-night" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sewmini-kawindya-059533272">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:rpsewminikavindya@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/sewmini12">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@rpsewminikavindya">
-    <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="40" />
-  </a>
-</p>
-
 
 ---
 
@@ -103,4 +73,3 @@ Passionate about building modern web applications and exploring the future of We
 💙 <i>"Never stop learning because technology never stops evolving."</i>
 
 </p>
-
