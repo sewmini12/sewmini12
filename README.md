@@ -17,7 +17,7 @@ Passionate about building modern web applications and exploring the future of We
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://medium.com/@rpsewminikavindya" target="_blank">Medium</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://devpost.com" target="_blank">Devpost</a>
+  <a href="https://devpost.com/RSewminiKavindya?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">Devpost</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:rpsewminikavindya@gmail.com">Email</a>
 </p>
